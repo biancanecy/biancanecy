@@ -26,9 +26,7 @@
 
 
 <div align="right">
-<img src="https://user-images.githubusercontent.com/106227810/171759572-aa0dc5c9-6bcd-449e-b1a6-6d79082eeb21.png" width="450px" />
-
-<img align="top" width="40px" src="https://user-images.githubusercontent.com/106227810/171761794-0578a382-32ee-4c94-8322-d7c09df6bf93.gif"/>
+<img src="https://user-images.githubusercontent.com/106227810/171759572-aa0dc5c9-6bcd-449e-b1a6-6d79082eeb21.png" width="450px" /><img align="top" width="40px" src="https://user-images.githubusercontent.com/106227810/171761794-0578a382-32ee-4c94-8322-d7c09df6bf93.gif"/>
 
 
   *"Se você busca muito alguma coisa, é certo que deixará outras no meio do caminho."*<br> -Kentaro Miura, 1989.
