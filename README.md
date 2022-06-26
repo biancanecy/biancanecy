@@ -1,6 +1,6 @@
 # By: Bianca Necy.
    ## Seja bem-vindo(a) á minha área!
-   Trabalho como freelancer 
+   
    
    🍏Acadêmica de Engenharia da Computação.
    
