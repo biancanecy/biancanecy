@@ -8,9 +8,6 @@
   
   🔖💻 Estudando Desing, Marketing ;
    
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=pinksize=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Bianca+Necy+Pampolha+Jorge.;I'm+from+Manaus,+AM.;Be+Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
-  
   
                        📥Contate-me Através do E-mail: Biancanecy.pj@gmail.com📥
                 
