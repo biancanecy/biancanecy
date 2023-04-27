@@ -2,7 +2,7 @@
    ## Seja bem-vindo(a) á minha área!
    
    
-   🍏Acadêmica de Engenharia da Computação.
+   🍏Acadêmica de Engenharia de Software.
    
   🔖💻 Estudando Desenvolvimento Web;
   
