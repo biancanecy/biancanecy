@@ -4,10 +4,7 @@
    
    🍏Acadêmica de Engenharia de Software.
    
-  🔖💻 Estudando Desenvolvimento Web;
   
-  🔖💻 Estudando Desing, Marketing ;
-   
   
                        📥Contate-me Através do E-mail: Biancanecy.pj@gmail.com📥
                 
