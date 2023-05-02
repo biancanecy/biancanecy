@@ -1,4 +1,4 @@
-# By: Bianca Necy.
+# Bianca Necy.
    ## Seja bem-vindo(a) á minha área!
    
    
