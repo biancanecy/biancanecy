@@ -2,7 +2,7 @@
    ## Seja bem-vindo(a) á minha área!
    
    
-   Acadêmica de Engenharia de Software.
+   Acadêmica de Sistemas de Informação.
    
   
   
