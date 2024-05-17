@@ -3,7 +3,7 @@
    
    
    Graduanda de Sistemas de Informação.
-   📥 EMAIL : biancanecy;profissional@gmail.com 📥
+   📥 EMAIL : biancanecy.profissional@gmail.com 📥
                 
 </div>            
    <a href="https://www.linkedin.com/in/bianca-necy-56b72723b/"><img align="center" width="145px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
